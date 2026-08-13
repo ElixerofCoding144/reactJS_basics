@@ -1,3 +1,5 @@
+// Try to create the below structures.
+// Type everything on your own.
 // Structure - 1
 /**
 *

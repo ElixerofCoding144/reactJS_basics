@@ -1,5 +1,5 @@
 {
-  "name": "03.production-ready-code",
+  "name": "04.components-props-state",
   "version": "1.0.0",
   "description": "A React application demonstrating a production-ready project structure and configuration.",
   "keywords": [
@@ -24,8 +24,5 @@
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
-  }//,
-  // browserslist": [
-  //   "last 10 Chrome version",
-  // ]
+  }
 }
